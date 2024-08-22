@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Frontend developer from Pakistan</h3>
 
 <img align="right" alt="Views" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif"/>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Hareem-Gohar&label=Profile%20views&color=0e75b6&style=flat"/></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Hareem-Gohar&label=Profile%20views&color=ffcccc&style=flat"/></p>
 
 - 🌱 I’m currently learning **React JS**
 - 💬 Ask me about **HTML, Tailwind CSS, Sass, Javascript, Vanilla JS, jQuery, React, Git**
@@ -34,7 +34,7 @@
 
 <div> 
   <a href="https://github.com/Hareem-Gohar/Hareem-Gohar">
-    <img align="center" alt="Hareem-Gohar" src="https://github-readme-streak-stats.herokuapp.com/?user=Hareem-Gohar&theme=transparent" alt="Hareem-Gohar" />
+    <img align="center" alt="Hareem-Gohar" src="https://github-readme-streak-stats.herokuapp.com/?user=Hareem-Gohar&theme=midnight-purple&layout=compact" alt="Hareem-Gohar" />
   </a>
   <img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hareem-Gohar&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" alt="Hareem-Gohar" />
  <hr/>
