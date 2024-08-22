@@ -32,7 +32,7 @@
 
 ### 🔥 My Stats 
 
-<div>
+<div  height="180em">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hareem-Gohar&layout=compact&theme=transparent" alt="Hareem-Gohar"/>
 </div>
 <div>
