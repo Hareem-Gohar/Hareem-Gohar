@@ -32,12 +32,13 @@
 
 ### 🔥 My Stats 
 
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hareem-Gohar&layout=compact&theme=transparent" alt="Hareem-Gohar"/>
-  <a align="right" href="https://github.com/Hareem-Gohar/Hareem-Gohar">
-    <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hareem-Gohar&theme=transparent" alt="Hareem-Gohar"/>
+<div> 
+ <img align="center" width="425" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hareem-Gohar&layout=compact&theme=transparent" alt="Hareem-Gohar" />
+  <a href="https://github.com/Hareem-Gohar/Hareem-Gohar">
+    <img align="center" alt="Hareem-Gohar" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hareem-Gohar&layout=compact&theme=transparent" alt="Hareem-Gohar" />
   </a>
-
-<hr/>
+ <hr/>
+ </div>
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Hareem-Gohar&theme=default"/>
 
