@@ -32,9 +32,7 @@
 
 ### 🔥 My Stats 
 
-<div  height="180em">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hareem-Gohar&layout=compact&theme=transparent" alt="Hareem-Gohar"/>
-</div>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hareem-Gohar&layout=compact&theme=transparent" alt="Hareem-Gohar"/>
 <div>
   <a href="https://github.com/Hareem-Gohar/Hareem-Gohar">
     <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hareem-Gohar&theme=transparent" alt="Hareem-Gohar"/>
