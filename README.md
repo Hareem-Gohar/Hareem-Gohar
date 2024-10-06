@@ -5,7 +5,7 @@
 <img align="right" alt="Views" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif"/>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Hareem-Gohar&label=Profile%20views&color=ffcccc&style=flat"/></p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Backend Development**
 - 💬 Ask me about **HTML, Tailwind CSS, Sass, Javascript, Vanilla JS, jQuery, React, Git**
 - 📫 How to reach me **malikzarsh2@gmail.com**
 
