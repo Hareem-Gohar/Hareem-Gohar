@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ffcccc&amp;size=18&amp;lines=Hey!+I'm+Hareem+Gohar!;Frontend+Web+Developer...🏻‍💻;Software+Engineer+in+the+making" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ffcccc&amp;size=18&amp;lines=Hey!+I'm+Hareem+Gohar!;Frontend+Web+Developer...🏻‍💻;Software+Engineer+in+the+making..." style="width: 100%;">
 
 <h3 align="center">A passionate Frontend developer from Pakistan</h3>
 
