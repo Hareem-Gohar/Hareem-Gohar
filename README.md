@@ -25,11 +25,6 @@
 My love for design often sparks ideas for my development projects, helping me merge creativity with technical skills! 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/hareem-gohar/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-</p>
 
 <div>
   <a href="https://www.linkedin.com/in/hareem-gohar/" target="_blank">
