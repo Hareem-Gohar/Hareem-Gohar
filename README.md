@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffcccc&size=22&center=true&vCenter=true&width=700&height=60&lines=Hey!+I'm+Hareem+Gohar+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Frontend+Developer+%E2%9C%A8;Turning+Ideas+Into+Web+Experiences+%F0%9F%92%97" alt="Typing introduction" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=c0a9e3&size=22&center=true&vCenter=true&width=700&height=60&lines=Hey!+I'm+Hareem+Gohar+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Frontend+Developer+%E2%9C%A8;Turning+Ideas+Into+Web+Experiences+%F0%9F%92%97" alt="Typing introduction" />
 
 <h3>💗 Software Developer by profession, creative soul by nature 🎨</h3>
 
