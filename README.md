@@ -120,6 +120,6 @@ My favorite part of development is bringing two worlds together: **creative desi
 
 *Keep creating, keep coding, and stay curious.* ✨🦋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffcccc&size=20&center=true&vCenter=true&width=500&height=45&lines=Thanks+for+stopping+by!+%F0%9F%92%97;Hope+you+found+something+you+like!+%E2%9C%A8;See+you+around%2C+fellow+developer!+%F0%9F%91%8B" alt="Thanks for visiting" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=c0a9e3&size=20&center=true&vCenter=true&width=500&height=45&lines=Thanks+for+stopping+by!+%F0%9F%92%97;Hope+you+found+something+you+like!+%E2%9C%A8;See+you+around%2C+fellow+developer!+%F0%9F%91%8B" alt="Thanks for visiting" />
 
 </div>
